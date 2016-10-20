@@ -3,5 +3,4 @@ cd /home/kyamini/workspace/hello/src/hello
 javac hello.java 
 java hello
 
-javac hellotest.java
-java hellotest
+
